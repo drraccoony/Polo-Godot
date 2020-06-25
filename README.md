@@ -11,7 +11,7 @@ The game has easily gone through 3 entire re-writes since the game was first sta
 
 The original game is still [available to download](https://drraccoon.me/files/Polo1.6.3helms.zip).
 
-## Remaster Objectives
+## "Remaster" Objectives
 It would be nice to breathe some life into the game again. Although, the list of milestones are as follows
 
 - [x] Recreate core mechanics
