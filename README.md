@@ -9,6 +9,8 @@ Its a platformer that was born in early 2008 and has been a ongoing project ever
 
 The game has easily gone through 3 entire re-writes since the game was first started. Alot of the original builds have been lost to time, but a few (Original BBEv1 Engine) still linger around (BBEv2 Rewrite) on the internet. The latest of the older engine that exists is probably 1.6.3 (Last BBEv2 Build). Originally intended to be a Windows only platform, HTML5, Android and Linux builds of the game were experimented and toyed with for awhile. For a short time, the game even had online co-op play before being scrapped due to poor UDP netcode sync.
 
+The original game is still [available to download](https://drraccoon.me/files/Polo1.6.3helms.zip).
+
 ## Remaster Objectives
 It would be nice to breathe some life into the game again. Although, the list of milestones are as follows
 
