@@ -18,3 +18,6 @@ It would be nice to breathe some life into the game again. Although, the list of
 - [ ] Add network play (2 players)
 - [ ] Add network play (3-4 players)
 - [ ] Add some original enemies
+
+## Additional Assets
+All other sprites, tilesets, sounds, and backgrounds exist in the original Gamemaker project file. The original game had 3 worlds, and several enemies.
