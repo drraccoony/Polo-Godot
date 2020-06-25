@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://icon.png" type="Texture" id=1]
+
+[node name="Camera2D" type="Camera2D"]
+position = Vector2( 336, 144 )
+zoom = Vector2( 0.3, 0.3 )
+drag_margin_h_enabled = true
+drag_margin_v_enabled = true
+
+[node name="icon" type="Sprite" parent="."]
+position = Vector2( -112, -32 )
+texture = ExtResource( 1 )
