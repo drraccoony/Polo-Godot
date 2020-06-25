@@ -16,9 +16,13 @@ _global_script_class_icons={
 [application]
 
 config/name="Godot Polo"
-run/main_scene="res://World.tscn"
+run/main_scene="res://World Scenes/World.tscn"
 boot_splash/fullsize=false
 config/icon="res://icon.png"
+
+[audio]
+
+default_bus_layout=""
 
 [display]
 
