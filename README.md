@@ -21,3 +21,10 @@ It would be nice to breathe some life into the game again. Although, the list of
 
 ## Additional Assets
 All other sprites, tilesets, sounds, and backgrounds exist in the original Gamemaker project file. The original game had 3 worlds, and several enemies.
+
+## Old Videos
+- [Polo Main Menu Concept](https://www.youtube.com/watch?v=jgcbemmnVYI)
+- [Enviromental Effects](https://www.youtube.com/watch?v=VhHhVMjfSxs)
+- [Polo Lite - Android Port via GM:S](https://www.youtube.com/watch?v=Hx1BhaFt12w)
+- [Polo BBEv1 to BBEv2 Trailer](https://www.youtube.com/watch?v=SqGt6x9owUA)
+- [2010 Playtest](https://www.youtube.com/watch?v=4aCPH667MWk)
