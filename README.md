@@ -1,5 +1,7 @@
 # Polo-Godot
  Polo remastered in the Godot Engine
+ 
+ ![Alt text](/GodotPoloScreenshot.png "Optional Title")
 
 ## Orgin of "Polo"
 Polo is a game devloped by DrRaccoon and Cbdman25. Originally, within Gamemaker 8.1. As the original description states:
