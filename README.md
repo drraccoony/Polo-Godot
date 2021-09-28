@@ -27,8 +27,8 @@ It would be nice to breathe some life into the game again. Although, the list of
 All other sprites, tilesets, sounds, and backgrounds exist in the original Gamemaker project file. The original game had 3 worlds, and several enemies.
 
 ## Music Theme Permission
-The [Main Polo Theme](https://www.youtube.com/watch?v=1D_2J2wtbCk) can be found here with original files available. Permission given from Filip Skutela.
-> Sure, you can use the music as long as it is credited within your game with my nickname and/or real name (Lamb/Filip Skutela). What I'd like to ask is NOT to put my real name as a text on webpages with external game descriptions, credits etc. This is because of Google-search. I am committed into professional music composing here and possible search results with game-stuff etc. are no longer desirable for me.
+The [Main Polo Theme](https://www.youtube.com/watch?v=1D_2J2wtbCk) can be found here with original files available. Permission given from the composer.
+> Sure, you can use the music as long as it is credited within your game with my nickname and/or real name (Lamb). What I'd like to ask is NOT to put my real name as a text on webpages with external game descriptions, credits etc. This is because of Google-search. I am committed into professional music composing here and possible search results with game-stuff etc. are no longer desirable for me.
 
 With original music files: 
 > There's also one thing I'd like to mention with your replaying routines. I don't know whether you're using module player or prerendered MP3/OGG file, but this tune is being played incorrectly. I'm sending you several versions at different bitrates as ready-to-use, as well as recommended player engine for XM files of mine (they are very hardly coded and most of players are not capable of handling 100% XM compatibility). I'm attaching a link because of gmail.com .exe file rejection:
